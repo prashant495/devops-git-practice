@@ -23,3 +23,5 @@
 12. git revert -> Creates a new commit that reverses the changes introduced by an earlier commit.
 
 13. git rm file1.txt -> Removes file1.txt from the working directory and stages its deletion for the next commit.
+
+#test
