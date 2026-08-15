@@ -21,3 +21,5 @@
 11. git merge main -> it will merger the current branch with main branch
 
 12. git revert -> it will undo the changes
+
+13. git rm file1.txt -> it will delete the file1 from git
