@@ -24,4 +24,12 @@
 
 13. git rm file1.txt -> Removes file1.txt from the working directory and stages its deletion for the next commit.
 
-#test
+14. git branch -> List local branches.
+
+15. git checkout -b feature-1 -> Creates feature-1 and switches to it.
+
+16. git branch feature-2 -> create branch feature-2.
+
+17. git switch feature-2 -> switch to branch feature-2.
+
+18. git branch -d feature-2 -> delete branch feature-2.
